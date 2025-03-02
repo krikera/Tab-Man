@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "chart.js": "^4.4.5",
+    "chart.js": "^4.4.7",
     "dompurify": "^3.1.7",
     "escape-html": "^1.0.3",
     "puppeteer": "^23.5.1",
